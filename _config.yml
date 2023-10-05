@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Sophia Sklaviadis"
   avatar : "/assets/images/me.png"
-  bio    : "I am a Computer Science PhD student in the SARDINE lab at Instituto Superior Técnico, supervised by Andre Martins, working in the DECOLLAGE project."
+  bio    : "PhD student in Andre Martins' SARDINE lab at Instituto Superior Técnico, working in the DECOLLAGE project"
   links:
     - label: "cv"
       icon: "fas fa-fw fa-link"
@@ -70,7 +70,7 @@ author:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/peithous"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -82,7 +82,7 @@ footer:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/peithous"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"

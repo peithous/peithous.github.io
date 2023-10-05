@@ -62,18 +62,18 @@ author:
   avatar : "/assets/images/me.png"
   bio    : "I am a Computer Science PhD student in the SARDINE lab at Instituto Superior Técnico, supervised by Andre Martins working in the DECOLLAGE project."
   links:
-    - label: "Website"
+    - label: "cv"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://https://peithous.github.io/folder/Sophia_Sklaviadis_cv.pdf"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:

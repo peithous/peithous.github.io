@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Sophia Sklaviadis"
   avatar : "/assets/images/me.png"
-  bio    : "I am a Computer Science PhD student in the SARDINE lab at Instituto Superior Técnico, supervised by Andre Martins working in the DECOLLAGE project."
+  bio    : "I am a Computer Science PhD student in the SARDINE lab at Instituto Superior Técnico, supervised by Andre Martins, working in the DECOLLAGE project."
   links:
     - label: "cv"
       icon: "fas fa-fw fa-link"

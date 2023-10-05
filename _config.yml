@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Sophia Sklaviadis"
-  avatar : "/assets/images/me.jpg"
+  avatar : "/assets/images/me.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"

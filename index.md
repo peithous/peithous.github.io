@@ -16,6 +16,11 @@ Hello! I'm a PhD student in [Andre Martins](https://andre-martins.github.io/)’
 
 This is Balto, my muppet 
 <img src="/assets/images/Balto.jpeg" alt="" width=30% height=auto> 
-He's fluent in Python, and much better than me at Portuguese.  
+<figure style="width: 80px" class="align-center">
+  <a href="/assets/images/Balto.jpeg" title="The Pixel Tracker logo" alt="The Pixel Tracker logo">
+  <img src="/assets/images/Balto.jpeg" alt=""></a>
+  <figcaption>He's fluent in Python, and much better than me at Portuguese. </figcaption>
+</figure>
+
 
 

@@ -15,7 +15,7 @@ Hello! I'm a PhD student in [Andre Martins](https://andre-martins.github.io/)’
 
 
 This is Balto, my muppet 
-[![styled-image](/assets/images/balto.jpeg){: .align-center style="width: 90%;"}](/assets/images/balto.jpeg)
+[![styled-image](/assets/images/balto.jpeg){: .align-center style="width: 80%;"}](/assets/images/balto.jpeg)
 He's fluent in Python, and so far much better than me at Portuguese.
 {: .align-caption}
 

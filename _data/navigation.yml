@@ -5,9 +5,7 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Notes & other things"
-    url: /notes/
   - title: "Publications"
     url: /publications/
-
-  
+  - title: "Notes, etc."
+    url: /notes/

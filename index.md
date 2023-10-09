@@ -10,7 +10,7 @@ header:
 
 ### About
 
-Hello! I'm a PhD student in [Andre Martins](https://andre-martins.github.io/)’ [SARDINE lab](https://sardine-lab.github.io/) at Instituto Superior Técnico (IST) in Lisbon. I'm working in the DECOLLAGE project on sparse communication. I am interested in Machine Learning and NLP, especially structured latent variable models and sparse and interpretable neural representations. I have a been a research intern at Amazon Alexa twice. I used to work on computational models of Ancient Greek syntax at the [Pereus Project](http://www.perseus.tufts.edu/hopper/). I have an MSc in Computer Science from Tufts University, an MA in Philosophy from the University of Chicago, and I did my BA in Philosophy at Yale University.  
+Hello! I'm a PhD student in [Andre Martins](https://andre-martins.github.io/)’ [SARDINE lab](https://sardine-lab.github.io/) at Instituto Superior Técnico (IST) in Lisbon. I'm working in the DECOLLAGE project on sparse communication. I am interested in Machine Learning and NLP, especially structured latent variable models and sparse and interpretable neural representations. I have a been a research intern at Amazon Alexa twice. I used to work on computational models of Ancient Greek syntax at the [Perseus Project](http://www.perseus.tufts.edu/hopper/). I have an MSc in Computer Science from Tufts University, an MA in Philosophy from the University of Chicago, and I did my BA in Philosophy at Yale University.  
 
 
 

@@ -13,7 +13,7 @@ header:
 - [From Exponential Family (Probabilistic) PCA to Probabilistic Fenchel-Young PCA](https://peithous.github.io/folder/expfam_pca_2.pdf) 
 
 - [Stochastic SparseMAP Notes](https://peithous.github.io/folder/mixed_spectra_notes.pdf) 
-- [Stochastic SparseMAP Preliminary Results](https://peithous.github.io/folder/mixed_spectra_sandine_pres_2024.pdf)
+- [Stochastic SparseMAP Preliminary Results (Presentation)](https://peithous.github.io/folder/mixed_spectra_sandine_pres_2024.pdf)
 
 - [Relaxed RNNG VAEs](https://peithous.github.io/folder/Sophia_Sklaviadis_writing_sample.pdf)
 

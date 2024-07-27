@@ -11,6 +11,8 @@ header:
 
 ## Notes
 
-- [****](): 
+- [From Exponential Family (Probabilistic) PCA to Probabilistic Fenchel-Young PCA](https://peithous.github.io/folder/expfam_pca_2.pdf) 
+
+- [Stochastic SparseMAP Notes](https://peithous.github.io/folder/mixed_spectra_notes.pdf) 
 
 ## Other things
